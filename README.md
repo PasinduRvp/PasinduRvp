@@ -1,129 +1,27 @@
-<!-- 🌌 Modern Dark Mode GitHub Profile README for Pasindu Vidanapathirana -->
+# 💫 About Me:
+I'm a passionate Software Engineering undergraduate at SLIIT with a strong focus on full-stack development and emerging technologies. Currently in my 3rd year, I'm actively seeking internship opportunities to apply my skills and gain hands-on industry experience.<br><br>🎓 BSc (Hons) in Information Technology - Specializing in Software Engineering<br>💻 2+ years of hands-on development experience<br>🌱 Currently exploring Cloud Computing, AI/ML, and Advanced React Patterns<br>🔭 Working on innovative projects in Web and Mobile Development<br>📍 Based in Matara, Sri Lanka
 
-<h1 align="center">
-  👋 Hey there, I'm <span style="color:#00b3ff;">Pasindu Vidanapathirana</span>
-</h1>
 
-<h3 align="center">
-  💻 Software Engineering Undergraduate at SLIIT
-</h3>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.pasinduvidanapathirana.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pasindu-vidanapathirana-a3b9a1371/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rvppasindu@gmail.com) 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00B3FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Mobile+App+Developer+📱;UI%2FUX+Enthusiast+🎨;Tech+Innovator+🚀;Open+to+Internship+Opportunities+🤝" alt="Typing Animation" />
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PasinduRvp&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PasinduRvp&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduRvp&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PasinduRvp&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  🌍 Based in <strong>Matara, Sri Lanka</strong> <br>
-  🎓 Studying <strong>BSc (Hons) in IT – Software Engineering</strong> at <strong>SLIIT</strong> <br>
-  💼 Currently seeking <strong>Internship Opportunities</strong> <br>
-  📧 <a href="mailto:rvppasindu@gmail.com">rvppasindu@gmail.com</a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-I'm a passionate <strong>Software Engineering undergraduate</strong> at the Sri Lanka Institute of Information Technology (SLIIT).  
-I specialize in <strong>Full-Stack Web Development</strong> and <strong>Mobile App Engineering</strong> — crafting scalable, user-focused digital experiences.  
-I love exploring emerging technologies like <strong>Cloud Computing, AI, and Machine Learning</strong>, while collaborating on creative, impactful projects.
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PasinduRvp&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=PasinduRvp&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">🧠 Tech Stack</h2>
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,js" /><br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java" /><br/>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" /><br/>
-  <!-- Mobile -->
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio" /><br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma" />
-</p>
-
----
-
-<h2 align="center">📚 Education</h2>
-
-<p align="center">
-  🎓 <strong>BSc (Hons) in Information Technology – Software Engineering</strong><br/>
-  <em>Sri Lanka Institute of Information Technology (SLIIT)</em><br/>
-  <small>2023 – Present</small><br/><br/>
-  🏫 <strong>G.C.E. Advanced Level (Physical Science Stream)</strong><br/>
-  <em>MR/Telijjawila Central College</em><br/>
-  <small>2013 – 2022</small>
-</p>
-
----
-
-<h2 align="center">💼 Featured Projects</h2>
-
-| 🧩 Project | 🛠️ Tech Stack | 🔗 Links |
-|-------------|---------------|----------|
-| **🏥 PRABODHA Hospital Management System** | MERN, Tailwind CSS | [🔗 GitHub](#) • [🌐 Live](#) |
-| **🌍 Mini Cabs & Tours (Client)** | Next.js, Tailwind CSS, SEO | [🔗 GitHub](#) • [🌐 Live](#) |
-| **📚 BookNest – Library System** | React, Express, MongoDB | [🔗 GitHub](#) • [🌐 Live](#) |
-| **🛰️ InfraGuard App** | Flutter, Firebase, Maps API | [🔗 GitHub](#) • [🌐 Live](#) |
-| **♻️ Smart Waste Management** | Flutter, Firebase, AI | [🔗 GitHub](#) • [🌐 Live](#) |
-| **✈️ Ceylon Holiday Trip (Client)** | React, Tailwind, Vercel | [🔗 GitHub](#) • [🌐 Live](#) |
-| **🎵 Melody Mart App** | Kotlin, XML, SQLite | [🔗 GitHub](#) |
-| **📊 Academic Performance Dashboard** | React, Tailwind | [🔗 GitHub](#) |
-
-> 🌟 *Explore more on my [GitHub Repositories →](https://github.com/PasinduRvp)*  
-
----
-
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PasinduRvp&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduRvp&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduRvp&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
----
-
-<h2 align="center">🤝 Connect with Me</h2>
-
-<p align="center">
-  <a href="mailto:rvppasindu@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pasindu-vidanapathirana">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/PasinduRvp">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/pasindu_rvp">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">☕ Fun Facts</h2>
-
-<p align="center">
-  💡 10+ Completed Projects | 🤝 4+ Collaborations | ☕ 500+ Coffee Cups | 🎓 Graduation: 2027  
-</p>
-
----
-
-<h3 align="center">⚡ “Passionate about building impactful digital solutions and continuously learning.” ⚡</h3>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:8a2be2&height=90&section=footer"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
