@@ -10,16 +10,25 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00FF41&multiline=true&width=600&height=150&lines=I'm+a+passionate+Software+Engineering;undergraduate+at+SLIIT+with+a+strong+focus;on+full-stack+development+and+emerging;technologies.+Currently+in+my+3rd+year%2C;actively+seeking+internship+opportunities!" alt="About Me Typing" />
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00FF41&multiline=true&width=600&height=200&lines=I'm+a+passionate+Software+Engineering;undergraduate+at+SLIIT+with+a+strong+focus;on+full-stack+development+and+emerging;technologies.+Currently+in+my+3rd+year%2C;actively+seeking+internship+opportunities!" alt="About Me Typing" />
+      <br><br>
+      
 - 🎓 **BSc (Hons) in Information Technology** - Specializing in Software Engineering
 - 💻 **2+ years** of hands-on development experience
 - 🌱 Currently exploring **Cloud Computing, AI/ML, and Advanced React Patterns**
 - 🔭 Working on innovative projects in **Web and Mobile Development**
 - 📍 Based in **Matara, Sri Lanka**
 - 🚀 Always eager to learn and collaborate on exciting projects
+      
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="400" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;">
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
